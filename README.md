@@ -42,7 +42,10 @@
 - 관리자는 회원들의 건의를 검토하고 사이트의 모든 권한을 가지고 있습니다.
 ```
 
+
+
 ## 사용기술
+
 Spring Boot : MVC 패턴의 웹 구현
 
 Mybatis : 회원, 게시글, 상품 등 CRUD 구현
@@ -65,15 +68,23 @@ MultipartRequest : 이미지 업로드
 8. 부트스트랩을 이용한 반응형 페이지 구현
 ```
 
+
+
 ## 시연
+
 ### 기본기능
-<iframe width="1008" height="506" src="https://www.youtube.com/embed/fg-J0MMd5DM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Video Label](./assets/images/기본기능.png)](https://www.youtube.com/embed/fg-J0MMd5DM)
+
+
 
 
 ### 추가기능
 ![safefood3](./assets/images/p3.png)
 
-<iframe width="1008" height="506" src="https://www.youtube.com/embed/TgN0_GeOi2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Video Label](./assets/images/추가기능.png)](https://www.youtube.com/embed/TgN0_GeOi2o)
+
+
 
 ## Stack
 ![safefood](./assets/images/p2.png)
