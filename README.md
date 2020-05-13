@@ -82,7 +82,7 @@ MultipartRequest : 이미지 업로드
 ### 추가기능
 ![safefood3](./assets/images/p3.png)
 
-![Video Label](./assets/images/추가기능.png)](https://www.youtube.com/embed/TgN0_GeOi2o)
+[![Video Label](./assets/images/추가기능.png)](https://www.youtube.com/embed/TgN0_GeOi2o)
 
 
 
